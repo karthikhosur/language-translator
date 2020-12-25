@@ -1,0 +1,1 @@
+# language-translator-all-api
