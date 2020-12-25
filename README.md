@@ -37,12 +37,13 @@ Request Body:
 
 ## Example of Response Body
 ``` 
-```
 {
 "input_language":"en"
 "output_language":"fr"
 "text":"Le monde est un endroit magnifique où vivre. J&#39;adore manger beaucoup."
 }
+```
+
 
 ## Built with
 [Flask](https://github.com/pallets/flask) Copyright 2010 Pallets
