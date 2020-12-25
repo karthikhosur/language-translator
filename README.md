@@ -29,13 +29,13 @@ This is a source code of an API that you can find here (free plan available): ht
 If everything is OK then you should be able to check your API on `http://127.0.0.1:5000/translate`
 
 Example of request: `http://127.0.0.1:5000/translate`
-``
+```
 Request Body: 
 {
 "text": "The world is a beautiful place to live in. I love to eat a lot of food.",
 "output_language": "fr"
 }
-``
+```
 ## Example of Response Body
 ``` 
 {
