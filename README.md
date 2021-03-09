@@ -1,4 +1,4 @@
-# Extract-Blogs-api
+# Language Translator
 Flask code to deploy an API that translates Text Accurately to any of the 103 languages
 
 Translations between the following languages are supported:
