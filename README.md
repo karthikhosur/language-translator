@@ -4,6 +4,7 @@ Flask code to deploy an API that translates Text Accurately to any of the 103 la
 Translations between the following languages are supported:
 
 This is a source code of an API that you can find here (free plan available): https://rapidapi.com/karthikhosur15/api/language-translator1
+
 Language Translator App: https://language-translate-ui.herokuapp.com/
 
 
